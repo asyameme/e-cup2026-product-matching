@@ -1,0 +1,21 @@
+# Local environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local and competition data
+data/
+*.parquet
+*.sqlite
+artifacts/
+outputs/
+
+# Checkpoints and temporary training files
+checkpoints/
+wandb/
+.cache/
+
+# Local model weights are kept outside the code repository or in Git LFS.
+inference/model/

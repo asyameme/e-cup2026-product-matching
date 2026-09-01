@@ -1,0 +1,6 @@
+version,description,mean_pr_auc
+v1.1,initial cross-encoder fine-tuning,0.365492
+v1.2,training with LLM-labelled pairs,0.379292
+v1.3,extended cross-encoder fine-tuning,0.426847
+v1.4,reversed pairs and additional training,0.428903
+v1.5,joint training with LLM labels and hard negatives,0.433610

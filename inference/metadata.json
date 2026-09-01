@@ -1,0 +1,4 @@
+{
+  "image": "asyameme/ecup26-matching-crossencoder:1.5",
+  "entry_point": "python -u run_submission.py"
+}
